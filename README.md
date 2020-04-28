@@ -1,6 +1,15 @@
 # RL_DDPG_Recommendation
 Project for Course : Reinforcement Learning
 
+How to Run code:
+
+Using Google Colab Platform:
+
+Place data in Data Folder in drive folder RL Project.
+The path to your data should look like - My Drive/RL Project/Data
+
+The Notebook is in the RL Project Folder. Run the cells in sequence
+
 Implementation of Paper: Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling. 
 Ref: Liu, Feng & Tang, Ruiming & Li, Xutao & Ye, Yunming & Chen, Haokun & Guo, Huifeng. (2018). Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling. 
 

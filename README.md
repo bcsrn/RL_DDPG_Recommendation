@@ -10,6 +10,17 @@ The path to your data should look like - My Drive/RL Project/Data
 
 The Notebook is in the RL Project Folder. Run the cells in sequence
 
+Using an IDE:
+
+Download the data from the link referred below
+Change the paths in the python folder to the path to the data
+
+On windows the path could look like: r'C:\Users\HOME\Documents\RLProject\Data\ml-1m\'
+
+Install the dependencies - pytorch,torch,sklearn,numpy,pandas,scipy,matplotlib,tqdm they are mentioned at the top of the python file 
+
+Run python -W ignore rl_actorcritic_ddpg_movie_recommendation.py
+
 Implementation of Paper: Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling. 
 Ref: Liu, Feng & Tang, Ruiming & Li, Xutao & Ye, Yunming & Chen, Haokun & Guo, Huifeng. (2018). Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling. 
 
